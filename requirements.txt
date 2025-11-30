@@ -1,0 +1,5 @@
+flask
+gunicorn
+sendgrid
+requests
+beautifulsoup4
